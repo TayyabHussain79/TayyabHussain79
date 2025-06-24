@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyab Shoukat</h1>
-<h3 align="center">AI Engineer | Generative AI & Multi-Agent Systems Enthusiast | Computer Vision | LLMs | RAG</h3>
+<h3 align="center">AI Engineer | Agentic AI | Generative AI | Computer Vision | DL | ML | Python Developer</h3>
 
 ---
 
@@ -51,15 +51,7 @@ I'm a passionate AI Engineer with hands-on experience in designing, implementing
 - 📧 Email: tayyabshoukat0786@gmail.com  
 - 💼 LinkedIn: [@tayyabshoukat0786](https://www.linkedin.com/in/tayyabshoukat0786/)  
 - 📱 WhatsApp: +92 308 9729091  
-- 📊 Kaggle: [@tayyabshoukat0786](https://www.kaggle.com/tayyabshoukat0786)
-
----
-
-🧩 **Fun Facts**
-
-- I love reading personal development & psychology books 📚  
-- Passionate about running, workouts, and creative cooking 👨‍🍳  
-- Always exploring how AI can redefine human-computer interaction 🤯  
+- 📊 Kaggle: [@tayyabshoukat0786](https://www.kaggle.com/tayyabshoukat0786)  
 
 ---
 
