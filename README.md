@@ -30,7 +30,7 @@ I'm a passionate AI Engineer with hands-on experience in designing, implementing
 - **VisionCaption** – CNN-LSTM image captioning system.
 - **Hand Gesture Recognizer** – Real-time gesture digit recognition using CNN.
 
-[Check out my full project list here »](https://github.com/TayyabHussain79?tab=repositories)
+[Check out my full project list here »](https://www.linkedin.com/in/tayyabshoukat0786/)
 
 ---
 
