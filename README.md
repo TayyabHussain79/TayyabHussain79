@@ -5,7 +5,7 @@
 
 🎯 **About Me**
 
-I'm a passionate AI Engineer with hands-on experience in designing, implementing, and deploying innovative AI systems that solve real-world problems. With a strong foundation in **Machine Learning, Deep Learning, Generative AI, and Agentic AI**, I enjoy building smart, automated solutions that drive impact across industries like finance, healthcare, content generation, and more.
+Innovative AI Engineer with hands-on expertise in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Computer Vision**. Experienced in developing multi-agent and RAG-based systems using tools like LangChain, LangGraph, and FastAPI. Proficient in model fine-tuning, deployment, and enterprise AI integration.
 
 ---
 
